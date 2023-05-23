@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Modules</string>
+    <string name="mod_details">mod_details</string>
+    <string name="modnumber">modnumber</string>
+    <string name="back">BACK</string>
+    <string name="tv203">C203\nWeb Appln Development</string>
+    <string name="tv206">C206\nSoftware Development Process</string>
+    <string name="tv218">C218\nUI/UX Design for Apps</string>
+    <string name="tv235">C235\nIT Security and Management</string>
+    <string name="tv346">C346\nMobile App Development</string>
+    <string name="tv953">G953\nLife Skills 3</string>
+    <string name="modules">MODULES</string>
+</resources>
